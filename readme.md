@@ -16,7 +16,7 @@
 개발 엔진 및 언어 : Unreal Engine & C++
 과제 제출자 : 임동건
 
-<img width="3840" height="1080" alt="hw09readmeimage" src="https://github.com/user-attachments/assets/8fe51f6e-e2dc-4ec4-9534-90c7c411a2d7" />
+![Uploading hw09readmeimage.png…]()
 
 
 ---
